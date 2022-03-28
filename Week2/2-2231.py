@@ -5,6 +5,6 @@ for i in range(1, n + 1):
     for j in str(i):
         tmpSum += int(j)
     if tmpSum+i == n:
-        sum = tmpSum+i
+        sum = i
         break
 print(sum)
