@@ -3,7 +3,7 @@ arr = []
 for i in range(n):
     arr.append((int(input())))
 
-newArr = sorted(arr)
+arr.sort()
 
-for i in newArr:
+for i in arr:
     print(i)
