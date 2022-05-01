@@ -1,5 +1,5 @@
 n = int(input())
-arr = []
+arr = [0] * n
 for i in range(n):
     arr.append((int(input())))
 
