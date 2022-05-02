@@ -14,4 +14,4 @@ for i in range(n):
     a, b = map(int, sys.stdin.readline().split())
     n1 = max(a, b)
     n2 = min(a, b)
-    print(int(n1*n2/find(n1, n2)))
+    print(int(n1 * n2 / find(n1, n2)))
