@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="백트래킹 9251 LCS">
-      <change afterPath="$PROJECT_DIR$/Week6/13-11054.py" afterDir="false" />
+    <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="백트래킹 9184 신나는 함수 실행">
+      <change afterPath="$PROJECT_DIR$/Week6/4-9461.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.13-11054">
+  <component name="RunManager" selected="Python.4-9461">
     <configuration name="11-2156" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7-1932" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2-9184" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +112,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week6/7-1932.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week6/2-9184.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9-1463" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4-9461" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +133,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week6/9-1463.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week6/4-9461.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4-9461" />
+        <item itemvalue="Python.2-9184" />
         <item itemvalue="Python.13-11054" />
         <item itemvalue="Python.15-9251" />
         <item itemvalue="Python.11-2156" />
-        <item itemvalue="Python.9-1463" />
-        <item itemvalue="Python.7-1932" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +343,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656298139791</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="백트래킹 11054 가장 긴 바이토닉 부분 수열">
+      <created>1656301538223</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1656301538223</updated>
+    </task>
+    <task id="LOCAL-00028" summary="백트래킹 9184 신나는 함수 실행">
+      <created>1656406935677</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1656406935677</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -380,6 +394,8 @@
     <MESSAGE value="백트래킹 1463 1로 만들기" />
     <MESSAGE value="백트래킹 2156 포도주 시식" />
     <MESSAGE value="백트래킹 9251 LCS" />
-    <option name="LAST_COMMIT_MESSAGE" value="백트래킹 9251 LCS" />
+    <MESSAGE value="백트래킹 11054 가장 긴 바이토닉 부분 수열" />
+    <MESSAGE value="백트래킹 9184 신나는 함수 실행" />
+    <option name="LAST_COMMIT_MESSAGE" value="백트래킹 9184 신나는 함수 실행" />
   </component>
 </project>
