@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="동적 계획법 2579 계단 오르기">
-      <change beforePath="$PROJECT_DIR$/Week6/8-2579.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week6/8-2579.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week6/10-10844.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +36,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.8-2579">
-    <configuration name="13-11054" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.10-10844">
+    <configuration name="10-10844" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,7 +49,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week6/13-11054.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week6/10-10844.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10-10844" />
         <item itemvalue="Python.8-2579" />
         <item itemvalue="Python.6-1149" />
         <item itemvalue="Python.4-9461" />
         <item itemvalue="Python.2-9184" />
-        <item itemvalue="Python.13-11054" />
       </list>
     </recent_temporary>
   </component>
@@ -377,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656750518464</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="동적 계획법 2579 계단 오르기">
+      <created>1656750809089</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1656750809089</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
