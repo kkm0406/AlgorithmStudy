@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="스택 10773 제로" />
+    <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="폴더 이름 변경">
+      <change afterPath="$PROJECT_DIR$/스택/3-9012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.2-10773">
+  <component name="RunManager" selected="Python.3-9012">
     <configuration name="1-10828" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3-11399" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3-9012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그리디 알고리즘" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/스택" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그리디 알고리즘/3-11399.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/스택/3-9012.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3-9012" />
         <item itemvalue="Python.2-10773" />
         <item itemvalue="Python.1-10828" />
         <item itemvalue="Python.5-11305" />
         <item itemvalue="Python.4-1541" />
-        <item itemvalue="Python.3-11399" />
       </list>
     </recent_temporary>
   </component>
@@ -452,7 +455,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658649077501</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="스택 10773 제로">
+      <created>1658649377694</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1658649377694</updated>
+    </task>
+    <task id="LOCAL-00044" summary="폴더 이름 변경">
+      <created>1658649491973</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1658649491973</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -467,7 +484,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백트래킹 15650 N과 M(3)" />
     <MESSAGE value="백트래킹 15650 N과 M(4)" />
     <MESSAGE value="백트래킹 14888 연산자 끼워넣기" />
     <MESSAGE value="백트래킹 14889 스타트와 링크" />
@@ -492,6 +508,7 @@
     <MESSAGE value="그리디 알고리즘 11305 주유소" />
     <MESSAGE value="스택 10828 스택" />
     <MESSAGE value="스택 10773 제로" />
-    <option name="LAST_COMMIT_MESSAGE" value="스택 10773 제로" />
+    <MESSAGE value="폴더 이름 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="폴더 이름 변경" />
   </component>
 </project>
