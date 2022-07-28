@@ -1,7 +1,9 @@
 import sys
+from collections import deque
 
 n = int(sys.stdin.readline())
-q = []
+q = deque()
+
 for _ in range(n):
     op = sys.stdin.readline().split()
     if op[0] == "push":
@@ -27,4 +29,4 @@ for _ in range(n):
         if len(q) == 0:
             print(-1)
         else:
-            del q[0]
+            print(q.popleft())
