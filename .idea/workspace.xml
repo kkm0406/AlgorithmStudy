@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="큐, 덱 18258 큐 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/큐, 덱/1-18258.py" beforeDir="false" afterPath="$PROJECT_DIR$/큐, 덱/1-18258.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/큐, 덱/2-2164.py" beforeDir="false" afterPath="$PROJECT_DIR$/큐, 덱/2-2164.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.1-18258">
+  <component name="RunManager" selected="Python.2-2164">
     <configuration name="1-18258" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,8 +144,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1-18258" />
         <item itemvalue="Python.2-2164" />
+        <item itemvalue="Python.1-18258" />
         <item itemvalue="Python.6-17298" />
         <item itemvalue="Python.5-1874" />
         <item itemvalue="Python.4-4949" />
@@ -160,13 +160,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650970825720</updated>
-    </task>
-    <task id="LOCAL-00002" summary="정수론 및 조합론 1037 약수">
-      <created>1651376456233</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1651376456233</updated>
     </task>
     <task id="LOCAL-00003" summary="정수론 및 조합론 1934 최소공배수">
       <created>1651377143755</created>
@@ -504,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658994933598</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="큐, 덱 18258 큐 2">
+      <created>1658995594209</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1658995594209</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
