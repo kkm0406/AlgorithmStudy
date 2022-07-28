@@ -27,6 +27,4 @@ for _ in range(n):
         if len(q) == 0:
             print(-1)
         else:
-            q.reverse()
-            print(q.pop())
-            q.reverse()
+            del q[0]
