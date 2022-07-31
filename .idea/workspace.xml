@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="큐, 덱 2164 카드2">
-      <change afterPath="$PROJECT_DIR$/큐, 덱/3-11866.py" afterDir="false" />
+    <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="큐, 덱 11866 요세푸스 문제 0">
+      <change afterPath="$PROJECT_DIR$/큐, 덱/4-1966.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.3-11866">
+  <component name="RunManager" selected="Python.4-1966">
     <configuration name="1-18258" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5-1874" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4-1966" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,11 +108,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/스택" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/큐, 덱" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/스택/5-1874.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/큐, 덱/4-1966.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4-1966" />
         <item itemvalue="Python.3-11866" />
         <item itemvalue="Python.2-2164" />
         <item itemvalue="Python.1-18258" />
         <item itemvalue="Python.6-17298" />
-        <item itemvalue="Python.5-1874" />
       </list>
     </recent_temporary>
   </component>
@@ -160,13 +160,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650970825720</updated>
-    </task>
-    <task id="LOCAL-00004" summary="정수론 및 조합론 3036 링">
-      <created>1651459941090</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1651459941090</updated>
     </task>
     <task id="LOCAL-00005" summary="정수론 및 조합론 11050 이항 계수 1">
       <created>1651460461125</created>
@@ -504,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659006556447</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="큐, 덱 11866 요세푸스 문제 0">
+      <created>1659008562548</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1659008562548</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -519,7 +519,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백트래킹 1932 정수 삼각형" />
     <MESSAGE value="백트래킹 1463 1로 만들기" />
     <MESSAGE value="백트래킹 2156 포도주 시식" />
     <MESSAGE value="백트래킹 9251 LCS" />
@@ -544,6 +543,7 @@
     <MESSAGE value="스택 17298 오큰수" />
     <MESSAGE value="큐, 덱 18258 큐 2" />
     <MESSAGE value="큐, 덱 2164 카드2" />
-    <option name="LAST_COMMIT_MESSAGE" value="큐, 덱 2164 카드2" />
+    <MESSAGE value="큐, 덱 11866 요세푸스 문제 0" />
+    <option name="LAST_COMMIT_MESSAGE" value="큐, 덱 11866 요세푸스 문제 0" />
   </component>
 </project>
