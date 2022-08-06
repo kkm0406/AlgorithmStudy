@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="큐, 덱 1021 회전하는 큐">
-      <change afterPath="$PROJECT_DIR$/큐, 덱/7-5430.py" afterDir="false" />
+    <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="큐, 덱 5430 AC">
+      <change afterPath="$PROJECT_DIR$/동적계획법 1/17-9095.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +36,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.7-5430">
-    <configuration name="3-11866" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.17-9095">
+    <configuration name="17-9095" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -45,11 +45,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/큐, 덱" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/동적계획법 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/큐, 덱/3-11866.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/동적계획법 1/17-9095.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.17-9095" />
         <item itemvalue="Python.7-5430" />
         <item itemvalue="Python.6-1021" />
         <item itemvalue="Python.5-10866" />
         <item itemvalue="Python.4-1966" />
-        <item itemvalue="Python.3-11866" />
       </list>
     </recent_temporary>
   </component>
@@ -160,13 +160,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650970825720</updated>
-    </task>
-    <task id="LOCAL-00008" summary="정수론 및 조합론 11051 이항 계수 2">
-      <created>1651468017843</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1651468017843</updated>
     </task>
     <task id="LOCAL-00009" summary="정수론 및 조합론 1010 다리 놓기">
       <created>1651682364731</created>
@@ -504,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659257302331</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="큐, 덱 5430 AC">
+      <created>1659537136889</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1659537136889</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -519,7 +519,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백트래킹 11054 가장 긴 바이토닉 부분 수열" />
     <MESSAGE value="백트래킹 9184 신나는 함수 실행" />
     <MESSAGE value="동적 계획법 9461 파도반 수열" />
     <MESSAGE value="동적 계획법 2579 계단 오르기" />
@@ -544,6 +543,7 @@
     <MESSAGE value="큐, 덱 1966 프린터 큐" />
     <MESSAGE value="큐, 덱 10866 덱" />
     <MESSAGE value="큐, 덱 1021 회전하는 큐" />
-    <option name="LAST_COMMIT_MESSAGE" value="큐, 덱 1021 회전하는 큐" />
+    <MESSAGE value="큐, 덱 5430 AC" />
+    <option name="LAST_COMMIT_MESSAGE" value="큐, 덱 5430 AC" />
   </component>
 </project>
