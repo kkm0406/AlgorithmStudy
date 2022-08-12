@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="다이나믹 프로그래밍 9095 1, 2, 3 더하기">
-      <change afterPath="$PROJECT_DIR$/동적계획법 1/18-11052.py" afterDir="false" />
+    <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="다이나믹 프로그래밍 11052 카드 구매하기">
+      <change afterPath="$PROJECT_DIR$/동적계획법 1/19-1699.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.18-11052">
+  <component name="RunManager" selected="Python.19-1699">
     <configuration name="17-9095" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5-10866" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="19-1699" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/큐, 덱" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/동적계획법 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/큐, 덱/5-10866.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/동적계획법 1/19-1699.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.19-1699" />
         <item itemvalue="Python.18-11052" />
         <item itemvalue="Python.17-9095" />
         <item itemvalue="Python.7-5430" />
         <item itemvalue="Python.6-1021" />
-        <item itemvalue="Python.5-10866" />
       </list>
     </recent_temporary>
   </component>
@@ -160,13 +160,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650970825720</updated>
-    </task>
-    <task id="LOCAL-00010" summary="정수론 및 조합론 1676 팩토리얼 0의 개수">
-      <created>1651762223314</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1651762223314</updated>
     </task>
     <task id="LOCAL-00011" summary="정수론 및 조합론 9375 패션왕 신해빈">
       <created>1651853523961</created>
@@ -504,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659792403861</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="다이나믹 프로그래밍 11052 카드 구매하기">
+      <created>1659800355054</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1659800355054</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -519,7 +519,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="동적 계획법 9461 파도반 수열" />
     <MESSAGE value="동적 계획법 2579 계단 오르기" />
     <MESSAGE value="동적 계획법 10844 쉬운 계단 수" />
     <MESSAGE value="동적 계획법 11053 가장 긴 증가하는 부분 수열" />
@@ -544,6 +543,7 @@
     <MESSAGE value="큐, 덱 1021 회전하는 큐" />
     <MESSAGE value="큐, 덱 5430 AC" />
     <MESSAGE value="다이나믹 프로그래밍 9095 1, 2, 3 더하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="다이나믹 프로그래밍 9095 1, 2, 3 더하기" />
+    <MESSAGE value="다이나믹 프로그래밍 11052 카드 구매하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="다이나믹 프로그래밍 11052 카드 구매하기" />
   </component>
 </project>
