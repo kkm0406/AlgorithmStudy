@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="다이나믹 프로그래밍 1699 제곱수의 합">
-      <change afterPath="$PROJECT_DIR$/동적계획법 1/20-2193.py" afterDir="false" />
+    <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="다이나믹 프로그래밍 2193 이친수">
+      <change afterPath="$PROJECT_DIR$/큐, 덱/8-15501.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,12 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.20-2193">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmStudy\큐, 덱" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.8-15501">
     <configuration name="17-9095" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7-5430" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="8-15501" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/큐, 덱" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/큐, 덱/7-5430.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\sdjmc\PycharmProjects\AlgorithmStudy\큐, 덱\8-15501.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.8-15501" />
         <item itemvalue="Python.20-2193" />
         <item itemvalue="Python.19-1699" />
         <item itemvalue="Python.18-11052" />
         <item itemvalue="Python.17-9095" />
-        <item itemvalue="Python.7-5430" />
       </list>
     </recent_temporary>
   </component>
@@ -160,13 +165,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650970825720</updated>
-    </task>
-    <task id="LOCAL-00012" summary="정수론 및 조합론 2004 조합 0의 개수">
-      <created>1651855031803</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1651855031803</updated>
     </task>
     <task id="LOCAL-00013" summary="백트래킹 15649 N과 M(1)">
       <created>1652283012790</created>
@@ -504,7 +502,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660302275166</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="다이나믹 프로그래밍 2193 이친수">
+      <created>1660303569899</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1660303569899</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -519,7 +524,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="동적 계획법 10844 쉬운 계단 수" />
     <MESSAGE value="동적 계획법 11053 가장 긴 증가하는 부분 수열" />
     <MESSAGE value="누적합 11053 구간 합 구하기 4" />
     <MESSAGE value="그리디 알고리즘 11047 동전 0" />
@@ -544,6 +548,7 @@
     <MESSAGE value="다이나믹 프로그래밍 9095 1, 2, 3 더하기" />
     <MESSAGE value="다이나믹 프로그래밍 11052 카드 구매하기" />
     <MESSAGE value="다이나믹 프로그래밍 1699 제곱수의 합" />
-    <option name="LAST_COMMIT_MESSAGE" value="다이나믹 프로그래밍 1699 제곱수의 합" />
+    <MESSAGE value="다이나믹 프로그래밍 2193 이친수" />
+    <option name="LAST_COMMIT_MESSAGE" value="다이나믹 프로그래밍 2193 이친수" />
   </component>
 </project>
