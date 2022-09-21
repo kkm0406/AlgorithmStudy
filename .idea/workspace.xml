@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="백준 2089 -2진수">
-      <change afterPath="$PROJECT_DIR$/분할 정복/1-2630.py" afterDir="false" />
+    <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="백준 분할정복 2630 색종이 만들기">
+      <change afterPath="$PROJECT_DIR$/알고리즘(1)/10451.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,10 +38,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmStudy\알고리즘(1)" />
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmStudy\큐, 덱" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1-2630">
+  <component name="RunManager" selected="Python.10451">
     <configuration name="1-1929" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1-9465" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10451" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/동적계획법 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/알고리즘(1)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/동적계획법 2/1-9465.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/알고리즘(1)/10451.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10451" />
         <item itemvalue="Python.1-2630" />
         <item itemvalue="Python.2089" />
         <item itemvalue="Python.11656" />
         <item itemvalue="Python.1-1929" />
-        <item itemvalue="Python.1-9465" />
       </list>
     </recent_temporary>
   </component>
@@ -165,13 +166,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650970825720</updated>
-    </task>
-    <task id="LOCAL-00018" summary="백트래킹 14889 스타트와 링크">
-      <created>1652721890558</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1652721890558</updated>
     </task>
     <task id="LOCAL-00019" summary="백트래킹 24416 알고리즘 수업 - 피보나치 1">
       <created>1655790643329</created>
@@ -509,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661602188563</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="백준 분할정복 2630 색종이 만들기">
+      <created>1662131703607</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1662131703607</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -524,7 +525,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="그리디 알고리즘 1541 잃어버린 괄호" />
     <MESSAGE value="그리디 알고리즘 11305 주유소" />
     <MESSAGE value="스택 10828 스택" />
     <MESSAGE value="스택 10773 제로" />
@@ -549,6 +549,7 @@
     <MESSAGE value="백준 1929 소수 구하기" />
     <MESSAGE value="백준 11656 접미사 배열" />
     <MESSAGE value="백준 2089 -2진수" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 2089 -2진수" />
+    <MESSAGE value="백준 분할정복 2630 색종이 만들기" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 분할정복 2630 색종이 만들기" />
   </component>
 </project>
