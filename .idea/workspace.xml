@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="백준 알고리즘(3) 2003 수들의 합 2">
-      <change afterPath="$PROJECT_DIR$/그리디 알고리즘/2875.py" afterDir="false" />
+    <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="백준 그리디 알고리즘 2875 대회 or 인턴">
+      <change afterPath="$PROJECT_DIR$/자료구조1/11655.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmStudy\큐, 덱" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2875">
+  <component name="RunManager" selected="Python.11655">
     <configuration name="10610" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1476" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11655" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/알고리즘(2)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/자료구조1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/알고리즘(2)/1476.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/자료구조1/11655.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11655" />
         <item itemvalue="Python.2875" />
         <item itemvalue="Python.2003" />
         <item itemvalue="Python.10610" />
         <item itemvalue="Python.7785" />
-        <item itemvalue="Python.1476" />
       </list>
     </recent_temporary>
   </component>
@@ -166,13 +166,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650970825720</updated>
-    </task>
-    <task id="LOCAL-00027" summary="백트래킹 11054 가장 긴 바이토닉 부분 수열">
-      <created>1656301538223</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1656301538223</updated>
     </task>
     <task id="LOCAL-00028" summary="백트래킹 9184 신나는 함수 실행">
       <created>1656406935677</created>
@@ -510,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664460102538</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="백준 그리디 알고리즘 2875 대회 or 인턴">
+      <created>1664546764406</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1664546764406</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -525,7 +525,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="큐, 덱 18258 큐 2" />
     <MESSAGE value="큐, 덱 2164 카드2" />
     <MESSAGE value="큐, 덱 11866 요세푸스 문제 0" />
     <MESSAGE value="큐, 덱 1966 프린터 큐" />
@@ -550,6 +549,7 @@
     <MESSAGE value="백준 알고리즘(2) 1476 회사에 있는 사람" />
     <MESSAGE value="백준 그리디 알고리즘 10610 30" />
     <MESSAGE value="백준 알고리즘(3) 2003 수들의 합 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 알고리즘(3) 2003 수들의 합 2" />
+    <MESSAGE value="백준 그리디 알고리즘 2875 대회 or 인턴" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 그리디 알고리즘 2875 대회 or 인턴" />
   </component>
 </project>
