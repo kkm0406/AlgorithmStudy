@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="백준 정렬 11004 K번째 수">
-      <change afterPath="$PROJECT_DIR$/수학 알고리즘/11576.py" afterDir="false" />
+    <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="백준 수학1 11576 Base Conversion">
+      <change afterPath="$PROJECT_DIR$/2501.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이분탐색/1920.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,42 +29,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sdjmc/PycharmProjects/AlgorithmStudy&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/Users/sdjmc/PycharmProjects/AlgorithmStudy",
+    "settings.editor.selected.configurable": "proofread"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmStudy\알고리즘(1)" />
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmStudy\큐, 덱" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.11576">
-    <configuration name="10816" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/분할 정복" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/분할 정복/10816.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.1920">
     <configuration name="11004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2331" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1920" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +116,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그래프" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이분탐색" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그래프/2331.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이분탐색/1920.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2501" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2501.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1920" />
+        <item itemvalue="Python.2501" />
         <item itemvalue="Python.11576" />
         <item itemvalue="Python.11004" />
         <item itemvalue="Python.1764" />
-        <item itemvalue="Python.10816" />
-        <item itemvalue="Python.2331" />
       </list>
     </recent_temporary>
   </component>
@@ -166,13 +168,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650970825720</updated>
-    </task>
-    <task id="LOCAL-00033" summary="동적 계획법 10844 쉬운 계단 수">
-      <created>1656835512244</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1656835512244</updated>
     </task>
     <task id="LOCAL-00034" summary="동적 계획법 11053 가장 긴 증가하는 부분 수열">
       <created>1656837062599</created>
@@ -510,7 +505,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664965161256</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="백준 수학1 11576 Base Conversion">
+      <created>1665315768229</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1665315768231</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -525,7 +527,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="큐, 덱 5430 AC" />
     <MESSAGE value="다이나믹 프로그래밍 9095 1, 2, 3 더하기" />
     <MESSAGE value="다이나믹 프로그래밍 11052 카드 구매하기" />
     <MESSAGE value="다이나믹 프로그래밍 1699 제곱수의 합" />
@@ -550,6 +551,7 @@
     <MESSAGE value="백준 분할정복 10816 숫자 카드 2" />
     <MESSAGE value="백준 자료구조2 1764 듣보잡" />
     <MESSAGE value="백준 정렬 11004 K번째 수" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 정렬 11004 K번째 수" />
+    <MESSAGE value="백준 수학1 11576 Base Conversion" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 수학1 11576 Base Conversion" />
   </component>
 </project>
