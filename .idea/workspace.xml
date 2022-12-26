@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="백준 구현 1152 단어의 개수">
-      <change afterPath="$PROJECT_DIR$/구현/1157.py" afterDir="false" />
+    <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="백준 구현 1157 단어 공부">
+      <change afterPath="$PROJECT_DIR$/구현/8958.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmStudy\큐, 덱" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1157">
+  <component name="RunManager" selected="Python.8958">
     <configuration name="1152" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,27 +107,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1780" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/분할 정복" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/분할 정복/1780.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="2740" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,13 +128,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="8958" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/구현" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/구현/8958.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.8958" />
         <item itemvalue="Python.1157" />
         <item itemvalue="Python.1152" />
         <item itemvalue="Python.1316" />
         <item itemvalue="Python.2740" />
-        <item itemvalue="Python.1780" />
       </list>
     </recent_temporary>
   </component>
@@ -167,13 +167,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650970825720</updated>
-    </task>
-    <task id="LOCAL-00043" summary="스택 10773 제로">
-      <created>1658649377694</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1658649377694</updated>
     </task>
     <task id="LOCAL-00044" summary="폴더 이름 변경">
       <created>1658649491973</created>
@@ -511,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672060104097</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="백준 구현 1157 단어 공부">
+      <created>1672061941504</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1672061941504</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -526,7 +526,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 분할정복 2630 색종이 만들기" />
     <MESSAGE value="백준 알고리즘(1) 10451 순열 사이클" />
     <MESSAGE value="백준 알고리즘(1) 1158 요세푸스 문제" />
     <MESSAGE value="백준 알고리즘(2) 10815 숫자카드" />
@@ -551,6 +550,7 @@
     <MESSAGE value="백준 분할정복 2740 행렬 곱셈" />
     <MESSAGE value="백준 구현 1316 그룹 단어 체커" />
     <MESSAGE value="백준 구현 1152 단어의 개수" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 구현 1152 단어의 개수" />
+    <MESSAGE value="백준 구현 1157 단어 공부" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 구현 1157 단어 공부" />
   </component>
 </project>
