@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="백준 구현 2477 참외밭">
-      <change afterPath="$PROJECT_DIR$/구현/Silver4/1244.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/구현/Silver5/2161.py" afterDir="false" />
+    <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="백준 구현 2161 카드1">
+      <change afterPath="$PROJECT_DIR$/구현/Silver3/10972.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/구현/Silver3/10973.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/구현/10250.py" beforeDir="false" afterPath="$PROJECT_DIR$/구현/Bronze/10250.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/구현/1152.py" beforeDir="false" afterPath="$PROJECT_DIR$/구현/Bronze/1152.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/구현/1157.py" beforeDir="false" afterPath="$PROJECT_DIR$/구현/Bronze/1157.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/구현/1193.py" beforeDir="false" afterPath="$PROJECT_DIR$/구현/Bronze/1193.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/구현/1259.py" beforeDir="false" afterPath="$PROJECT_DIR$/구현/Bronze/1259.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/구현/1316.py" beforeDir="false" afterPath="$PROJECT_DIR$/구현/Silver5/1316.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/구현/1475.py" beforeDir="false" afterPath="$PROJECT_DIR$/구현/Silver5/1475.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/구현/2775.py" beforeDir="false" afterPath="$PROJECT_DIR$/구현/Bronze/2775.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/구현/2941.py" beforeDir="false" afterPath="$PROJECT_DIR$/구현/Silver5/2941.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/구현/8958.py" beforeDir="false" afterPath="$PROJECT_DIR$/구현/Bronze/8958.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +47,8 @@
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmStudy\알고리즘(1)" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2161">
-    <configuration name="1748" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.10973">
+    <configuration name="10973" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,11 +56,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/구현" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/구현/Silver3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\sdjmc\PycharmProjects\AlgorithmStudy\구현\Silver4\1748.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/구현/Silver3/10973.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10973" />
         <item itemvalue="Python.2161" />
         <item itemvalue="Python.2477" />
         <item itemvalue="Python.3085" />
         <item itemvalue="Python.2563" />
-        <item itemvalue="Python.1748" />
       </list>
     </recent_temporary>
   </component>
@@ -181,13 +171,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650970825720</updated>
-    </task>
-    <task id="LOCAL-00056" summary="큐, 덱 1021 회전하는 큐">
-      <created>1659257302331</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1659257302331</updated>
     </task>
     <task id="LOCAL-00057" summary="큐, 덱 5430 AC">
       <created>1659537136889</created>
@@ -525,7 +508,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672498155527</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="백준 구현 2161 카드1">
+      <created>1672500016251</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1672500016251</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -540,7 +530,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 자료구조2 1764 듣보잡" />
     <MESSAGE value="백준 정렬 11004 K번째 수" />
     <MESSAGE value="백준 수학1 11576 Base Conversion" />
     <MESSAGE value="백준 이분탐색 수 찾기 1920" />
@@ -565,6 +554,7 @@
     <MESSAGE value="백준 구현 2563 색종이" />
     <MESSAGE value="백준 구현 3085 사탕 게임" />
     <MESSAGE value="백준 구현 2477 참외밭" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 구현 2477 참외밭" />
+    <MESSAGE value="백준 구현 2161 카드1" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 구현 2161 카드1" />
   </component>
 </project>
