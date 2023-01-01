@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="백준 구현 10972 다음 순열" />
+    <list default="true" id="eedaf7e8-b701-4362-be38-b07881b28feb" name="Changes" comment="백준 구현 10973 이전 순열">
+      <change afterPath="$PROJECT_DIR$/그리디/Silver4/2839.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +46,7 @@
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmStudy\알고리즘(1)" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.10973">
+  <component name="RunManager" selected="Python.2839">
     <configuration name="10973" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2563" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2839" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/구현/Silver5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그리디/Silver4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/구현/Silver5/2563.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그리디/Silver4/2839.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2839" />
         <item itemvalue="Python.10973" />
         <item itemvalue="Python.2161" />
         <item itemvalue="Python.2477" />
         <item itemvalue="Python.3085" />
-        <item itemvalue="Python.2563" />
       </list>
     </recent_temporary>
   </component>
@@ -167,13 +170,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650970825720</updated>
-    </task>
-    <task id="LOCAL-00058" summary="다이나믹 프로그래밍 9095 1, 2, 3 더하기">
-      <created>1659792403861</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1659792403861</updated>
     </task>
     <task id="LOCAL-00059" summary="다이나믹 프로그래밍 11052 카드 구매하기">
       <created>1659800355054</created>
@@ -511,7 +507,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672569962772</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="백준 구현 10973 이전 순열">
+      <created>1672570456899</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1672570456899</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -526,7 +529,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="백준 수학1 11576 Base Conversion" />
     <MESSAGE value="백준 이분탐색 수 찾기 1920" />
     <MESSAGE value="백준 누적합 2559 수열" />
     <MESSAGE value="백준 누적합 11660 구간 합 구하기 5" />
@@ -551,6 +553,7 @@
     <MESSAGE value="백준 구현 2477 참외밭" />
     <MESSAGE value="백준 구현 2161 카드1" />
     <MESSAGE value="백준 구현 10972 다음 순열" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 구현 10972 다음 순열" />
+    <MESSAGE value="백준 구현 10973 이전 순열" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 구현 10973 이전 순열" />
   </component>
 </project>
